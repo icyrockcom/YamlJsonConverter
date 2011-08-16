@@ -1,6 +1,10 @@
 # YamlJsonConverter
 
-Griffon-based application to convert between Yaml and Json.
+Griffon-based application to convert between Yaml and Json. 
+
+Read more about it here:
+
+* [http://icyrock.com/blog/2011/05/griffon-yaml-json-converter/](http://icyrock.com/blog/2011/05/griffon-yaml-json-converter/)
 
 ## Running
 
