@@ -6,7 +6,7 @@ Griffon-based application to convert between Yaml and Json.
 
 Clone the repository locally with `git`:
 
-    git clone git@icyrockcom.unfuddle.com:icyrockcom/yaml-json-converter.git
+    git clone git://github.com/icyrockcom/YamlJsonConverter.git
 
 You should get YamlJsonConverter folder, `cd` into it and run the app:
 
